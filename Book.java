@@ -31,6 +31,6 @@ public class Book {
     }
 
     public void bookMark(){
-        System.out.println(name + " - " + page + "/" + page/2);
+        System.out.println(name + " - " + page + "/" + page/3);
     }
 }
